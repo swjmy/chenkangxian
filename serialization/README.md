@@ -1,0 +1,3 @@
+序列化，两种方式：
+java自带的inputstream
+和阿里巴巴的hession
