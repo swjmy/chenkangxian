@@ -1,4 +1,4 @@
-package chenkangxian.serialization;
+package src.serialization;
 
 import com.alibaba.com.caucho.hessian.io.HessianInput;
 import com.alibaba.com.caucho.hessian.io.HessianOutput;
